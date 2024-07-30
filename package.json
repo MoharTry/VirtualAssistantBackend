@@ -16,6 +16,7 @@
     "dotenv": "^16.3.1",
     "elevenlabs-node": "^1.2.0",
     "express": "^4.18.2",
+    "gl": "^8.0.2",
     "node-fetch": "^3.3.2",
     "openai": "^4.26.0",
     "rhubarb": "^0.1.0-rc2"
